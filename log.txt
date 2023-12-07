@@ -1,0 +1,408 @@
+{
+    "affc": "",
+    "bxc": "",
+    "vtc": "",
+    "x-api-key": "",
+    "profile": {
+        "firstName": "we",
+        "lastName": "",
+        "email": "1@gmail.com",
+        "password": "qcmTTR7H1Ab",
+        "phone": "987655746"
+    },
+    "ip": "::1",
+    "partner": "Hypernet",
+    "funnel": "EnelGreenCoin",
+    "landingURL": "",
+    "geo": "Null",
+    "lang": null,
+    "landingLang": "PL",
+    "subId": "",
+    "utmId": "",
+    "subId_a": "",
+    "subId_b": "",
+    "subId_c": "",
+    "trackingValues": {
+        "pixel": "",
+        "buyer": "",
+        "utm_campaign": "",
+        "adset_name": ""
+    },
+    "crm_response": false,
+    "pb_response": false,
+    "conversion_time": "2023-11-23 12:31:05"
+}
+{
+    "affc": "",
+    "bxc": "",
+    "vtc": "",
+    "x-api-key": "",
+    "profile": {
+        "firstName": "we",
+        "lastName": "",
+        "email": "1@gmail.com",
+        "password": "lONg25rW1Ab",
+        "phone": "987655746"
+    },
+    "ip": "::1",
+    "partner": "Hypernet",
+    "funnel": "EnelGreenCoin",
+    "landingURL": "",
+    "geo": "Null",
+    "lang": null,
+    "landingLang": "PL",
+    "subId": "",
+    "utmId": "",
+    "subId_a": "",
+    "subId_b": "",
+    "subId_c": "",
+    "trackingValues": {
+        "pixel": "",
+        "buyer": "",
+        "utm_campaign": "",
+        "adset_name": ""
+    },
+    "crm_response": false,
+    "pb_response": false,
+    "conversion_time": "2023-11-23 12:30:48"
+}
+{
+    "affc": "",
+    "bxc": "",
+    "vtc": "",
+    "x-api-key": "",
+    "profile": {
+        "firstName": "we",
+        "lastName": "",
+        "email": "1@gmail.com",
+        "password": "ohy71CZk1Ab",
+        "phone": "987564781"
+    },
+    "ip": "::1",
+    "partner": "Hypernet",
+    "funnel": "EnelGreenCoin",
+    "landingURL": "",
+    "geo": "Null",
+    "lang": null,
+    "landingLang": "PL",
+    "subId": "",
+    "utmId": "",
+    "subId_a": "",
+    "subId_b": "",
+    "subId_c": "",
+    "trackingValues": {
+        "pixel": "",
+        "buyer": "",
+        "utm_campaign": "",
+        "adset_name": ""
+    },
+    "crm_response": false,
+    "pb_response": false,
+    "conversion_time": "2023-11-23 12:28:14"
+}
+{
+    "affc": "",
+    "bxc": "",
+    "vtc": "",
+    "x-api-key": "",
+    "profile": {
+        "firstName": "we",
+        "lastName": "",
+        "email": "1@gmail.com",
+        "password": "EVZ5lHdc1Ab",
+        "phone": "987564781"
+    },
+    "ip": "::1",
+    "partner": "Hypernet",
+    "funnel": "EnelGreenCoin",
+    "landingURL": "",
+    "geo": "Null",
+    "lang": null,
+    "landingLang": "PL",
+    "subId": "",
+    "utmId": "",
+    "subId_a": "",
+    "subId_b": "",
+    "subId_c": "",
+    "trackingValues": {
+        "pixel": "",
+        "buyer": "",
+        "utm_campaign": "",
+        "adset_name": ""
+    },
+    "crm_response": false,
+    "pb_response": false,
+    "conversion_time": "2023-11-23 12:28:12"
+}
+{
+    "affc": "",
+    "bxc": "",
+    "vtc": "",
+    "x-api-key": "",
+    "profile": {
+        "firstName": "we",
+        "lastName": "",
+        "email": "1@gmail.com",
+        "password": "3CtKzCgN1Ab",
+        "phone": "987564781"
+    },
+    "ip": "::1",
+    "partner": "Hypernet",
+    "funnel": "EnelGreenCoin",
+    "landingURL": "",
+    "geo": "Null",
+    "lang": null,
+    "landingLang": "IT",
+    "subId": "",
+    "utmId": "",
+    "subId_a": "",
+    "subId_b": "",
+    "subId_c": "",
+    "trackingValues": {
+        "pixel": "",
+        "buyer": "",
+        "utm_campaign": "",
+        "adset_name": ""
+    },
+    "crm_response": false,
+    "pb_response": false,
+    "conversion_time": "2023-11-23 12:27:25"
+}
+{
+    "affc": "",
+    "bxc": "",
+    "vtc": "",
+    "x-api-key": "",
+    "profile": {
+        "firstName": "we",
+        "lastName": "",
+        "email": "1@gmail.com",
+        "password": "a3xqRiOM1Ab",
+        "phone": "987564781"
+    },
+    "ip": "::1",
+    "partner": "Hypernet",
+    "funnel": "EnelGreenCoin",
+    "landingURL": "",
+    "geo": "Null",
+    "lang": null,
+    "landingLang": "IT",
+    "subId": "",
+    "utmId": "",
+    "subId_a": "",
+    "subId_b": "",
+    "subId_c": "",
+    "trackingValues": {
+        "pixel": "",
+        "buyer": "",
+        "utm_campaign": "",
+        "adset_name": ""
+    },
+    "crm_response": false,
+    "pb_response": false,
+    "conversion_time": "2023-11-23 12:27:21"
+}
+{
+    "affc": "",
+    "bxc": "",
+    "vtc": "",
+    "x-api-key": "",
+    "profile": {
+        "firstName": "we",
+        "lastName": "",
+        "email": "1@gmail.com",
+        "password": "PExB311v1Ab",
+        "phone": "987654678"
+    },
+    "ip": "::1",
+    "partner": "Hypernet",
+    "funnel": "EnelGreenCoin",
+    "landingURL": "",
+    "geo": "Null",
+    "lang": null,
+    "landingLang": "IT",
+    "subId": "",
+    "utmId": "",
+    "subId_a": "",
+    "subId_b": "",
+    "subId_c": "",
+    "trackingValues": {
+        "pixel": "",
+        "buyer": "",
+        "utm_campaign": "",
+        "adset_name": ""
+    },
+    "crm_response": false,
+    "pb_response": false,
+    "conversion_time": "2023-11-23 12:26:54"
+}
+{
+    "affc": "",
+    "bxc": "",
+    "vtc": "",
+    "x-api-key": "",
+    "profile": {
+        "firstName": "we",
+        "lastName": "",
+        "email": "1@gmail.com",
+        "password": "jDq2tFtN1Ab",
+        "phone": "987654678"
+    },
+    "ip": "::1",
+    "partner": "Hypernet",
+    "funnel": "EnelGreenCoin",
+    "landingURL": "",
+    "geo": "Null",
+    "lang": null,
+    "landingLang": "IT",
+    "subId": "",
+    "utmId": "",
+    "subId_a": "",
+    "subId_b": "",
+    "subId_c": "",
+    "trackingValues": {
+        "pixel": "",
+        "buyer": "",
+        "utm_campaign": "",
+        "adset_name": ""
+    },
+    "crm_response": false,
+    "pb_response": false,
+    "conversion_time": "2023-11-23 12:25:49"
+}
+{
+    "affc": "",
+    "bxc": "",
+    "vtc": "",
+    "x-api-key": "",
+    "profile": {
+        "firstName": "",
+        "lastName": "",
+        "email": "1@gmail.com",
+        "password": "ccWzrr8Z1Ab",
+        "phone": "987895678"
+    },
+    "ip": "::1",
+    "partner": "Hypernet",
+    "funnel": "EnelGreenCoin",
+    "landingURL": "",
+    "geo": "Null",
+    "lang": null,
+    "landingLang": "IT",
+    "subId": "",
+    "utmId": "",
+    "subId_a": "",
+    "subId_b": "",
+    "subId_c": "",
+    "trackingValues": {
+        "pixel": "",
+        "buyer": "",
+        "utm_campaign": "",
+        "adset_name": ""
+    },
+    "crm_response": false,
+    "pb_response": false,
+    "conversion_time": "2023-11-23 12:23:02"
+}
+{
+    "affc": "",
+    "bxc": "",
+    "vtc": "",
+    "x-api-key": "",
+    "profile": {
+        "firstName": "",
+        "lastName": "",
+        "email": "",
+        "password": "hdhbzhW31Ab",
+        "phone": ""
+    },
+    "ip": "::1",
+    "partner": "Hypernet",
+    "funnel": "EnelGreenCoin",
+    "landingURL": "",
+    "geo": "Null",
+    "lang": null,
+    "landingLang": "IT",
+    "subId": "",
+    "utmId": "",
+    "subId_a": "",
+    "subId_b": "",
+    "subId_c": "",
+    "trackingValues": {
+        "pixel": "",
+        "buyer": "",
+        "utm_campaign": "",
+        "adset_name": ""
+    },
+    "crm_response": false,
+    "pb_response": false,
+    "conversion_time": "2023-11-23 12:22:40"
+}
+{
+    "affc": "",
+    "bxc": "",
+    "vtc": "",
+    "x-api-key": "",
+    "profile": {
+        "firstName": "",
+        "lastName": "",
+        "email": "",
+        "password": "ABdkutum1Ab",
+        "phone": ""
+    },
+    "ip": "::1",
+    "partner": "Hypernet",
+    "funnel": "EnelGreenCoin",
+    "landingURL": "",
+    "geo": "Null",
+    "lang": null,
+    "landingLang": "IT",
+    "subId": "",
+    "utmId": "",
+    "subId_a": "",
+    "subId_b": "",
+    "subId_c": "",
+    "trackingValues": {
+        "pixel": "",
+        "buyer": "",
+        "utm_campaign": "",
+        "adset_name": ""
+    },
+    "crm_response": false,
+    "pb_response": false,
+    "conversion_time": "2023-11-23 12:22:35"
+}
+{
+    "affc": "",
+    "bxc": "",
+    "vtc": "",
+    "x-api-key": "",
+    "profile": {
+        "firstName": "",
+        "lastName": "",
+        "email": "",
+        "password": "0Y6Zy9jH1Ab",
+        "phone": ""
+    },
+    "ip": "::1",
+    "partner": "Hypernet",
+    "funnel": "EnelGreenCoin",
+    "landingURL": "",
+    "geo": "Null",
+    "lang": null,
+    "landingLang": "IT",
+    "subId": "",
+    "utmId": "",
+    "subId_a": "",
+    "subId_b": "",
+    "subId_c": "",
+    "trackingValues": {
+        "pixel": "",
+        "buyer": "",
+        "utm_campaign": "",
+        "adset_name": ""
+    },
+    "crm_response": false,
+    "pb_response": false,
+    "conversion_time": "2023-11-23 12:21:25"
+}
